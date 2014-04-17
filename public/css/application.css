@@ -1,5 +1,5 @@
 body {
-	background-color: #FFD3B8;
+	background-color: white;
 	font-family: Helvetica;
 	font-size: 14px;
 	color: #323232;
@@ -42,8 +42,9 @@ header a {
   text-decoration:none;
   color:white;
   padding:10px 0px;
-  float:right;
+  float:left;
   padding-left:20px;
+  font-size: 22;
 
 }
 
